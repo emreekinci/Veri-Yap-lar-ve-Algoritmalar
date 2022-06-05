@@ -43,4 +43,5 @@ Bizim dizimizde eleman sayısı 6 olduğu için sonuç
 
 olacaktır.
 
+### https://app.patika.dev/emrevaljean
 
